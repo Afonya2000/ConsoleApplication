@@ -1,0 +1,6 @@
+c:\users\afanasiy\documents\visual studio 2015\Projects\Learn5\Learn5\bin\Debug\Learn5.exe.config
+c:\users\afanasiy\documents\visual studio 2015\Projects\Learn5\Learn5\bin\Debug\Learn5.exe
+c:\users\afanasiy\documents\visual studio 2015\Projects\Learn5\Learn5\bin\Debug\Learn5.pdb
+c:\users\afanasiy\documents\visual studio 2015\Projects\Learn5\Learn5\obj\Debug\Learn5.csprojResolveAssemblyReference.cache
+c:\users\afanasiy\documents\visual studio 2015\Projects\Learn5\Learn5\obj\Debug\Learn5.exe
+c:\users\afanasiy\documents\visual studio 2015\Projects\Learn5\Learn5\obj\Debug\Learn5.pdb
